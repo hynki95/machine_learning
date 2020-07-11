@@ -2,9 +2,11 @@
 머신러닝 학습을 위한 스터디 입니다.
 블로그에 소스 코드에 대한 설명을 적어두었습니다.
 
-## 1강
+## 1장
 https://it-timehacker.tistory.com/26
 
-## 2강
+## 2-1,2장
 https://it-timehacker.tistory.com/27
 
+## 2-3장
+https://it-timehacker.tistory.com/28
